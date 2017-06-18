@@ -1,5 +1,2 @@
-# Mac specific folder
-.DS_Store
-
-# Temporary files
-*~
+# The compile .exe file
+sodoku
